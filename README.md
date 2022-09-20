@@ -57,13 +57,7 @@ Once you finish your project, double-check to make sure your repo is ready:
 
 ## Code review
 
-Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-
 ## Submit your project
-
-After receiving final approval from a Code Reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
-Now go to your Student Dashboard and submit your project.
 
 ## Author
 
