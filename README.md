@@ -2,7 +2,7 @@
 
 # Hello-Microverse
 
-> Hello world project from microverse course.
+> In this project, we were required to set up a "Hello world" repository. No complex coding was required for this exercise. The goal here was to master all of the tools and best practices we had learned about in previous steps.
 
 
 ## Built With
