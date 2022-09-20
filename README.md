@@ -3,7 +3,7 @@
 # Project Name
 
 > Description the project.
-Hello World Project from Microverse
+- Hello World Project from Microverse
 
 ## Built With
 
