@@ -2,7 +2,7 @@
 
 # Hello-Microverse
 
-> Hello world project from microverse course
+> Hello world project from microverse course.
 
 
 ## Built With
