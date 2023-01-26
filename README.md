@@ -10,6 +10,7 @@ Project is created with:
 * CSS
 * GitHub
 * Linters
+* JavaScript
 
 ## Getting Started
 
