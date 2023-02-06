@@ -9,6 +9,7 @@ Project is created with:
 * HTML
 * CSS
 * GitHub
+* Gitflow
 * Linters
 * JavaScript
 
