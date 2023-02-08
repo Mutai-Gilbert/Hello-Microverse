@@ -9,7 +9,6 @@ Project is created with:
 * HTML
 * CSS
 * GitHub
-* Gitflow
 * Linters
 * JavaScript
 
@@ -39,7 +38,7 @@ Open index.html in your browser.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
