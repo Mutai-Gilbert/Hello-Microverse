@@ -22,13 +22,17 @@ A Web Browser (preferably Google Chrome).
 Basics in HTML and CSS.
 
 ### Setup
+
 Clone the GitHub Repository(https://github.com/Mutai-Gilbert/Hello-Microvese.git)
+
 ### Install
 Node.js and npm packages.
+
 ### Usage
+
 Open index.html in your browser.
 
-## Authors
+## Author
 
 👤 **Gilbert Mutai**
 
