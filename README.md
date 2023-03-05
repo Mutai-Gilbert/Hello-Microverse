@@ -5,12 +5,12 @@ A repository set up to practice code reviewing.
 ## Technologies
 
 Project is created with:
-
 * HTML
 * CSS
 * GitHub
 * Linters
 * JavaScript
+* Bootstrap
 
 ## Getting Started
 
